@@ -1,0 +1,1 @@
+UPDATE qwerty SET dir='malumot' WHERE isnull(dir);
